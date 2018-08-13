@@ -1,2 +1,2 @@
 # smart-toothbrush
-Design of smart toothbrush for ubiquitous healthcare
+Design of smart toothbrush for ubiquitous dental care
